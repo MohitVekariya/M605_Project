@@ -1,0 +1,9 @@
+Below are the steps to run my database project in sql 
+
+1. open mysql wrokbernch 
+2. open the file named schema 
+3. now create the database using the querry present in schema file
+4. now create the tables which all the querries are in the schema file one by one 
+5. now enter all the data which are present in the Data_seeding file and run all the querry one by one 
+6. Then open the Indexing_strategy.sql which has all the indexing querries also run this 
+now you can perform all the crud operation on the tables. 
